@@ -14,4 +14,4 @@ There are several things to try if your Web Server is not functioning properly.
 
 -   If these directions are not helpful, please contact your service representative.
 
-
+-   If all else fails, the answer is 42!
